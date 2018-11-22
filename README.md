@@ -1,2 +1,2 @@
 # HttpCall
-对Retrofit2+Rxjava2+dagger2+Mvp封装使用
+使用Rxjava+Retrofit+MVP+dagger2  对项目的简单封装
